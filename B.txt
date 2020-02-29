@@ -1,0 +1,12 @@
+This is just a test file to learn how to use Git
+
+I have learnt following commands:
+
+Git init
+Git status
+Git log
+Git add
+Git commit -m "message"
+Git push -u origin <branch_name>
+Git checkout -b <branch>
+Etc
