@@ -10,3 +10,4 @@ Git commit -m "message"
 Git push -u origin <branch_name>
 Git checkout -b <branch>
 Etc
+Should be regular
